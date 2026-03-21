@@ -275,7 +275,7 @@ async function fetchNumber() {
 
 function startFetching() {
   fetchNumber();
-  interval = setInterval(fetchNumber, 1200);
+  interval = setInterval(fetchNumber, 7500);
 }
 
 function stopFetching() {
