@@ -28,7 +28,7 @@ const ACTIVE_KEY  = getKey('active_numbers');
 
 // ----------------------------------------------------
 
-const API_KEY    = "a278a2b42001e6a5bbd06b1516dd1a50";
+const API_KEY    = "65fd6ed278eeb52b5c4b935c10578ee0";
 const BASE_URL   = "https://api.grizzlysms.com/stubs/handler_api.php";
 const SERVICE    = "swr";
 const COUNTRY    = "22";
